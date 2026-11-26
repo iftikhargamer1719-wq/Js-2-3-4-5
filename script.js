@@ -176,5 +176,3 @@ var celsius2 = (fahrenheit2 - 32) * 5 / 9;
 
 document.write(fahrenheit2 + "°F is " + celsius2 + "°C<br>");
 
-// Note: The screenshot only shows the beginning of Q7.
-// Its full instructions were not visible, so it is not added here.
