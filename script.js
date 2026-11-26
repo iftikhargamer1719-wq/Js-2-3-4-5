@@ -1,6 +1,4 @@
-// =====================================
 // CHAPTER 2 - VARIABLES FOR STRINGS
-// =====================================
 
 // Q1. Declare a variable called username.
 var username;
@@ -41,10 +39,7 @@ var specialMessage = "▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬�
 alert(specialMessage);
 document.write("<p>" + specialMessage + "</p>");
 
-
-// =====================================
 // CHAPTER 3 - VARIABLES FOR NUMBERS
-// =====================================
 
 // Q1. Store age and show it in an alert.
 var age = 15;
@@ -69,10 +64,7 @@ document.write(
     productTitle + "(s) on XYZ Clothing store.</p>"
 );
 
-
-// =====================================
 // CHAPTER 4 - VARIABLE NAMES
-// =====================================
 
 // Q1. Declare three variables in one statement.
 var firstName, lastName, studentAge;
@@ -99,10 +91,7 @@ document.write("Variable names must begin with a letter, $ or _.<br>");
 document.write("Variable names are case sensitive.<br>");
 document.write("Variable names should not be JS keywords.<br>");
 
-
-// =====================================
 // CHAPTER 5 - MATH EXPRESSIONS
-// =====================================
 
 // Q1. Add two numbers and show the result.
 var num1 = 3;
